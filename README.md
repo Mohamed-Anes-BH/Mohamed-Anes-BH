@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bouhariz Mohamed Anes</h1>
+<h1 align="center">Hi , I'm Bouhariz Mohamed Anes</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 
 - 🔭 I’m currently working on devloppement of desktop app **GEd ( Gestion Electronique de Donnes)**
